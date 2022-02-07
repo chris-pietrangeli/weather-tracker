@@ -21,6 +21,6 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## screen shots
-<img src="./assets.images/screenshot.png" />
+<img src="./assets/images/screenshot.png" />
 ## Deployed link
 https://chris-pietrangeli.github.io/weather-tracker/
